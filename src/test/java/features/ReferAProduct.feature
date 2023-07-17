@@ -1,5 +1,5 @@
 Feature: A register user should referred a product to a friend successfully
-  @referAProduct @all
+  @referAProduct
     Scenario: As a user , I should be able to send a product to my friend successfully
     Given I am on home page
     When I enter all required Registration details
